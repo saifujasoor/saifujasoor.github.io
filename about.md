@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Currently a SWE at [Forward](https://goforward.com/). UCLA CS '19
+Currently Working as Data scientists at [Solution Analysts](https://www.solutionanalysts.com/)
 
 ### Other Writing
 
@@ -44,4 +44,4 @@ As a former member of UCLA's ACM AI group, here are some of the topics we've pre
 
 ### Contact me
 
-[aditdeshpande3@gmail.com](mailto:aditdeshpande3@gmail.com)
+[codewithsaifullah@gmail.com](mailto:codewithsaifullah@gmail.com)
