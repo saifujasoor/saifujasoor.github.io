@@ -6,10 +6,10 @@
 name: Saifullah Rahimi
 
 # Short bio or description (displayed in the header)
-description: Engineering at Forward | UCLA CS '19
+description: Data Scientists
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/images/uclagradpic.jpg"
+avatar: "/images/saif.jpg"
 
 #
 # Flags below are optional
@@ -18,9 +18,9 @@ avatar: "/images/uclagradpic.jpg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: aditdeshpande3@gmail.com
+  email: codewithsaifullah@gmail.com
   flickr:
-  github: adeshpande3
+  github: saifujasoor
   instagram: aditdeshpande3
   linkedin: aditdeshpande3
   pinterest:
